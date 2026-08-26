@@ -59,6 +59,7 @@ Attendance Saved
 View History & Percentage
 
 ====
+
 3.Technologies Used
 
 HTML
@@ -82,6 +83,7 @@ Chart.js
 Sheet JS
 
 ===
+
 3.Main Modules
 
 1.Teacher
@@ -121,6 +123,7 @@ Manage Attendance
 Manage College Location
 
 ========
+
 4.Attendance Percentage
 
 The system automatically calculates attendance percentage based on present and total classes.
@@ -138,6 +141,7 @@ Smart-QR-Attendance/
 └── .env
 
 =====
+
 5.How to Run
  
  Download or clone this repository.
@@ -155,11 +159,13 @@ Smart-QR-Attendance/
  Open the application in your browser.
  
 ====== 
+
 6.Project Objective
 
 The main objective of this project is to replace traditional manual attendance with a fast, digital and automated QR-based attendance system.
 
 =======
+
 7.Future Features
 
 Face Recognition
@@ -175,6 +181,7 @@ Cloud Deployment
 Timetable Integration
 
 ======
+
 8.Author
 
 -Jhonson Lahre
