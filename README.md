@@ -2,22 +2,38 @@
 ===
 1.Features
 
- 1.Teacher Login
+1.Teacher Login
+
  2.Student Login
+ 
  3.Admin Login
+ 
  4.Generate a new QR Code for every lecture
+ 
  5.Scan QR Code using mobile camera
+ 
  6.GPS-based attendance verification
+ 
  7.Prevent duplicate attendance
+ 
  8.Student attendance history
+ 
  9.Teacher attendance history
+ 
  10.Subject-wise attendance percentage
+ 
  11.Student-wise attendance percentage
+ 
  12.Excel attendance report
+ 
  13.Teacher dashboard
-  14.Student dashboard
+ 
+ 14.Student dashboard
+ 
  15.Admin dashboard
+ 
  16.Mobile-friendly responsive design
+ 
  17.Simple and modern UI
 
 =====
