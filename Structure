@@ -1,0 +1,20 @@
+Smart-QR-Attendance/
+│
+├── public/
+│   ├── css/
+│   │   └── style.css
+│   └── js/
+│       └── scanner.js
+│
+├── views/
+│   ├── login.ejs
+│   ├── teacher_dashboard.ejs
+│   ├── student_dashboard.ejs
+│   └── admin_dashboard.ejs
+│
+├── database/
+│   └── schema.sql
+│
+├── .env
+├── package.json
+└── server.js
