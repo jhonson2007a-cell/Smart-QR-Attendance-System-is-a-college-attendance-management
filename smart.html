@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Admin Dashboard</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <nav class="navbar">
+        <h2>Admin Panel - <%= user.name %></h2>
+        <a href="/logout" class="logout-btn">Logout</a>
+    </nav>
+    <div class="dashboard-container">
+        <h3>System Overview</h3>
+        <div class="stats-grid">
+            <div class="card">
+                <h4>Total Students</h4>
+                <p><%= stats.students %></p>
+            </div>
+            <div class="card">
+                <h4>Total Teachers</h4>
+                <p><%= stats.teachers %></p>
+            </div>
+            <div class="card">
+                <h4>Total Subjects</h4>
+                <p><%= stats.subjects %></p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
